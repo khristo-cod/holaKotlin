@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">holaKotlin</string>
+    <string name="tts_active">Listo!</string>
+    <string name="tts_no_active">Servicio, no disponible</string>
+</resources>
